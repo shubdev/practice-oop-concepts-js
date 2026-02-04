@@ -37,5 +37,5 @@ let e1 = new Employee("sunny", 24, "EDMDJ", 6000000);
 e1.introduction()
 let e3 = new Employee("rohan", 25, "SD", 23000)
 e3.getAnnualSalary()
-// let e2 = new Person("ronny", 25)
-// e2.introduction()
+let e2 = new Person("ronny", 25)
+e2.introduction()
